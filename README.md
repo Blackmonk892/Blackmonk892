@@ -135,37 +135,6 @@ Worked on the OatMine product across its application surfaces, including the **m
 
 ---
 
-### 💳 AI Paywall
-**AI-powered product / monetization experiment**
-
-Built an application around AI-driven content and product access, combining a modern web stack with AI functionality and product-oriented architecture.
-
-→ [AI-paywall](https://github.com/Blackmonk892/AI-paywall)
-
----
-
-### 🧠 Vector Database From Scratch
-**Learning infrastructure by rebuilding the primitive**
-
-An experimental project exploring how vector search infrastructure works by implementing a **vector database from scratch** rather than treating the database as a black box.
-
-**Focus:** embeddings · indexing · similarity search · storage · retrieval systems
-
-→ [vector_db_from_scratch](https://github.com/Blackmonk892/vector_db_from_scratch)
-
----
-
-### 📚 ScholarAI
-**AI research / document workflow**
-
-An AI-powered research and document workflow combining desktop software with LLM orchestration.
-
-**Stack:** Electron · Python · LangChain · AI / LLMs
-
-→ [Scholar-AI](https://github.com/Blackmonk892/Scholar-AI)
-
----
-
 ### 👁️ Vision-Based Drone Controller
 **Gesture-controlled drone interaction using computer vision**
 
@@ -177,37 +146,11 @@ Explored using hand / gesture recognition as a control interface for drone inter
 
 ---
 
-### 📈 PowerCast
-**Machine-learning based forecasting**
-
-Forecasting project using gradient-boosted models over structured data.
-
-**Stack:** Python · XGBoost · Pandas · NumPy · Scikit-learn
-
----
-
-### 🔌 tscircuit Work
-**Programmable electronics / circuit tooling**
-
-Explored software-defined circuit and electronics tooling through the tscircuit ecosystem.
-
-→ [tscircuit](https://github.com/Blackmonk892/tscircuit)
-
----
-
 ### 🛰️ Other Builds
 
 A few more projects that represent different parts of the things I like building:
 
-**Candid** — full-stack application work
-
-**Gaganyaan Project** — engineering / aerospace-oriented project work
-
 **Placement Dashboard** — data-driven web dashboard
-
-**Mark It** — React-based application work
-
-**Webloom** — web application development
 
 **Chat App / GitChat** — real-time application experiments
 
