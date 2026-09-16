@@ -4,7 +4,7 @@
 
 ### Electrical Engineering × AI × Systems Engineering
 
-Building software at the boundary of **engineering systems, AI, computer vision, and developer tooling**.
+Building **AI systems, developer tools, computer-vision pipelines, mobile infrastructure, and low-level software**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Blackmonk892-181717?style=for-the-badge&logo=github)](https://github.com/Blackmonk892)
 [![DTU](https://img.shields.io/badge/DTU-Electrical%20Engineering-0B3D91?style=for-the-badge)](https://dtu.ac.in/)
@@ -16,19 +16,19 @@ Building software at the boundary of **engineering systems, AI, computer vision,
 
 ## About Me
 
-I'm **Anand**, a B.Tech Electrical Engineering student at **Delhi Technological University (DTU)**, exploring how electrical engineering and modern software can work together.
+I'm **Anand**, a B.Tech Electrical Engineering student at **Delhi Technological University (DTU)** who likes building things that sit between **software, AI, systems, and engineering**.
 
-My work has gradually moved from application development into **AI systems, computer vision, backend engineering, developer tools, and edge/cloud software**.
+My projects range from AI/RAG applications and machine learning to **React Native libraries, C++ developer tools, vector databases, computer vision, edge/cloud systems, and production-style desktop agents**.
 
-I like projects where the difficult part is not just writing code, but making the whole system work:
+I care about the full engineering loop:
 
-**architecture → implementation → testing → deployment → observability → shipping**
+**idea → architecture → implementation → debugging → testing → deployment → shipping**
 
 - 🎓 **B.Tech Electrical Engineering** — DTU, 2024–2028
 - 🧑‍💻 **LFX Mentee — Magma Core**
-- 🔧 Interested in **AI/ML, Computer Vision, Distributed Systems, Edge AI & Developer Infrastructure**
-- 🧠 Currently sharpening **DSA, System Design, ML engineering and low-level/system thinking**
-- 🌱 Learning by building, debugging and shipping real systems
+- 🤖 Interested in **AI/ML, Computer Vision, Edge AI, Distributed Systems & Developer Infrastructure**
+- 🧩 Building with **C++, Python, TypeScript, React, React Native and systems tooling**
+- 🧠 Currently deepening **DSA, system design, ML engineering and low-level systems knowledge**
 
 ---
 
@@ -47,14 +47,14 @@ Electrical engineering gives me the foundation to understand systems beyond soft
 - Power Systems
 - EV & Energy Storage
 - Microcontrollers
-- Control & Embedded Systems
+- Embedded & Control Systems
 
 </td>
 <td width="33%" valign="top">
 
 ### 🤖 AI & Computer Vision
 
-I build AI systems that have to operate on actual data and real constraints.
+I build systems around real data, real constraints and actual deployment requirements.
 
 **Interests**
 - Computer Vision
@@ -62,22 +62,22 @@ I build AI systems that have to operate on actual data and real constraints.
 - RAG / LLM Applications
 - ML Pipelines
 - Edge AI
-- VLM-based systems
+- VLM-based Systems
 
 </td>
 <td width="33%" valign="top">
 
-### 🛠️ Software & Systems
+### 🛠️ Developer & Product Systems
 
-I enjoy building the infrastructure around the model too.
+I like building the infrastructure around an application — not just the UI.
 
 **Interests**
-- Backend Systems
-- APIs
 - CLI Tools
+- Backend / APIs
+- React Native
 - Desktop Apps
-- Cloud/Edge Integration
-- Testing & Deployment
+- Developer Libraries
+- Cloud / Edge Integration
 
 </td>
 </tr>
@@ -85,48 +85,91 @@ I enjoy building the infrastructure around the model too.
 
 ---
 
-## Featured Work
+## 🚀 Selected Projects
 
-### 🔭 NZeroC Vision / Agent Work
-**Computer vision + edge agent + cloud integration**
+### 🌐 NZeroC Vision / Agent
+**End-to-end computer vision + edge agent + cloud platform work**
 
-Worked on an end-to-end vision pipeline involving:
+Worked across a production-style stack spanning **RTSP capture, FFmpeg, YOLO-World, ByteTrack, VLM routing, cloud ingestion and an edge agent**.
 
-`RTSP → FFmpeg → YOLO-World → ByteTrack → VLM routing → Cloud`
+Also worked on the operational side of the system: **enrollment, credential rotation, heartbeat, configuration pulling, media policy, cloud preview publishing, Windows Services, MSI packaging, Tauri desktop UI, integration testing and deployment troubleshooting**.
 
-Also worked across the agent lifecycle: enrollment, credential rotation, heartbeat, configuration pulling, media policy, preview publishing, Windows service packaging, MSI distribution, Tauri desktop UI, and integration testing.
+`RTSP → FFmpeg → YOLO-World → ByteTrack → VLM → Cloud`
 
-**Stack:** Python · C++ · YOLO-World · ByteTrack · FFmpeg · RTSP · Tauri · React · TypeScript · Windows Services
+**Stack:** Python · C++ · FFmpeg · RTSP · YOLO-World · ByteTrack · Tauri · React · TypeScript · Windows Services
 
-→ [NZeroC Agent](https://github.com/NZeroC-AI/nzeroc-agent)
+→ [NZeroC](https://github.com/Blackmonk892/nzeroc)
+
+---
+
+### 🧰 PDFX
+**A C++20 PDF developer tool / CLI project**
+
+A systems-oriented project focused on building practical PDF tooling in **modern C++**, with an emphasis on command-line workflows, file handling and low-level engineering.
+
+**Stack:** C++20 · CLI · Systems Programming · PDF Tooling
+
+---
+
+### 🧱 ApexRN
+**Brutalist React Native UI library**
+
+An open-source component library built specifically for **React Native**, designed around bold brutalist interfaces instead of generic mobile UI.
+
+Features include themeable design tokens, reusable components, TypeScript support, accessibility-minded defaults and support for **Expo + bare React Native**.
+
+**Stack:** React Native · TypeScript · Expo · Reanimated · Gesture Handler
+
+→ [ApexRN](https://github.com/Blackmonk892/apexrn)
+
+---
+
+### ⛏️ OatMine
+**Mobile + web product work**
+
+Worked on the OatMine product across its application surfaces, including the **mobile app and web experience**.
+
+**Stack:** React Native · TypeScript · Next.js · Mobile / Web Development
+
+→ [OatMine Mobile](https://github.com/Blackmonk892/oat_mine_mobile) · [OatMine Website](https://github.com/Blackmonk892/oatmine_website)
+
+---
+
+### 💳 AI Paywall
+**AI-powered product / monetization experiment**
+
+Built an application around AI-driven content and product access, combining a modern web stack with AI functionality and product-oriented architecture.
+
+→ [AI-paywall](https://github.com/Blackmonk892/AI-paywall)
+
+---
+
+### 🧠 Vector Database From Scratch
+**Learning infrastructure by rebuilding the primitive**
+
+An experimental project exploring how vector search infrastructure works by implementing a **vector database from scratch** rather than treating the database as a black box.
+
+**Focus:** embeddings · indexing · similarity search · storage · retrieval systems
+
+→ [vector_db_from_scratch](https://github.com/Blackmonk892/vector_db_from_scratch)
 
 ---
 
 ### 📚 ScholarAI
-An AI-powered research / document workflow built around desktop tooling and LLM orchestration.
+**AI research / document workflow**
 
-**Stack:** Electron · Python · LangChain · AI/LLMs
+An AI-powered research and document workflow combining desktop software with LLM orchestration.
+
+**Stack:** Electron · Python · LangChain · AI / LLMs
 
 → [Scholar-AI](https://github.com/Blackmonk892/Scholar-AI)
 
 ---
 
-### 📈 PowerCast
-Machine-learning based forecasting work using gradient-boosted models and structured data.
+### 👁️ Vision-Based Drone Controller
+**Gesture-controlled drone interaction using computer vision**
 
-**Stack:** Python · XGBoost · Pandas · NumPy · Scikit-learn
-
----
-
-### 🧰 PDFX
-A C++20 command-line project focused on practical PDF tooling.
-
-**Stack:** C++20 · CLI · Systems Programming
-
----
-
-### 🛩️ Vision-Based Drone Controller
-Explored gesture-based interaction for controlling a drone through computer vision.
+Explored using hand / gesture recognition as a control interface for drone interaction.
 
 **Stack:** Python · OpenCV · Computer Vision
 
@@ -134,41 +177,85 @@ Explored gesture-based interaction for controlling a drone through computer visi
 
 ---
 
-## Tech Stack
+### 📈 PowerCast
+**Machine-learning based forecasting**
+
+Forecasting project using gradient-boosted models over structured data.
+
+**Stack:** Python · XGBoost · Pandas · NumPy · Scikit-learn
+
+---
+
+### 🔌 tscircuit Work
+**Programmable electronics / circuit tooling**
+
+Explored software-defined circuit and electronics tooling through the tscircuit ecosystem.
+
+→ [tscircuit](https://github.com/Blackmonk892/tscircuit)
+
+---
+
+### 🛰️ Other Builds
+
+A few more projects that represent different parts of the things I like building:
+
+**Candid** — full-stack application work
+
+**Gaganyaan Project** — engineering / aerospace-oriented project work
+
+**Placement Dashboard** — data-driven web dashboard
+
+**Mark It** — React-based application work
+
+**Webloom** — web application development
+
+**Chat App / GitChat** — real-time application experiments
+
+---
+
+## 🧩 Tech Stack
 
 <div align="center">
 
 ### Languages
+
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### AI / ML
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 
-### Frameworks / Tools
+### Web / Mobile / Desktop
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+### Systems / Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
 </div>
 
 ---
 
-## Engineering Focus
+## 🧠 Engineering Focus
 
 ```text
 Electrical Engineering
@@ -179,39 +266,41 @@ Electrical Engineering
         └── Embedded & Control
                 │
                 ▼
-           Software Systems
+        Software & AI Systems
                 │
-        ├── Backend / APIs
+        ├── C++ / Systems
         ├── AI / ML
         ├── Computer Vision
-        ├── Edge Computing
-        └── Developer Tools
+        ├── React / React Native
+        ├── Backend / APIs
+        └── Edge / Cloud
                 │
                 ▼
-         Real-world Systems
+        Products & Infrastructure
 ```
 
-I am especially interested in systems where **hardware constraints, intelligent software and reliable infrastructure** all matter at once.
+I am especially interested in systems where **hardware constraints, intelligent software, developer experience and reliable infrastructure** all matter at once.
 
 ---
 
-## Open Source
+## 🛠️ How I Like to Engineer
 
-I enjoy working in codebases where the goal is bigger than a single application: infrastructure, agents, developer tools, AI systems and platforms.
+I learn fastest by getting close to the actual system:
 
-A big part of my engineering learning comes from:
+**read the code → understand the architecture → find the bottleneck → make the smallest correct change → test it → debug the ugly parts → ship it**
 
-**reading existing code → finding the real bottleneck → changing the smallest correct thing → testing it → shipping it**
+That's why I enjoy projects that force me to work across more than one layer of the stack.
 
 ---
 
-## Currently
+## 🔥 Currently
 
-- 🔍 Deepening **DSA + System Design**
+- 🧠 Deepening **DSA + System Design**
 - 🤖 Building and experimenting with **AI / CV systems**
+- 📱 Working with **React Native + TypeScript**
 - ⚙️ Exploring **edge + cloud architectures**
-- 🧪 Improving engineering discipline around **testing, packaging and deployment**
-- ⚡ Continuing to connect **Electrical Engineering with software systems**
+- 🧪 Improving discipline around **testing, packaging and deployment**
+- ⚡ Connecting **Electrical Engineering with modern software systems**
 
 ---
 
