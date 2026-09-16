@@ -24,7 +24,7 @@ I care about the full engineering loop:
 
 **idea → architecture → implementation → debugging → testing → deployment → shipping**
 
-- 🎓 **B.Tech Electrical Engineering** — DTU, 2024–2028
+- 🎓 **B.Tech Electrical Engineering** — DTU
 - 🧑‍💻 **LFX Mentee — Magma Core**
 - 🤖 Interested in **AI/ML, Computer Vision, Edge AI, Distributed Systems & Developer Infrastructure**
 - 🧩 Building with **C++, Python, TypeScript, React, React Native and systems tooling**
