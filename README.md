@@ -1,23 +1,17 @@
 # Anand Singh
 
-I build AI products, computer-vision systems, and developer tools — from the model pipeline to the product people use.
+Software builder working across **applied AI, systems, and developer tools**. I care about the gap between a working demo and software people can actually use.
 
-**Focus:** AI/ML · Computer Vision · Backend Systems · Developer Tools
+**LFX Mentee — Magma Core**
 
-## Selected work
+## Things I've built
 
-- **[NZeroC](https://github.com/Blackmonk892/nzeroc)** — Edge-vision pipeline connecting video ingestion, detection, tracking, and cloud workflows.
-- **[Scholar AI](https://github.com/Blackmonk892/Scholar-AI)** — AI-powered study and research tooling.
-- **[ApexRN](https://github.com/Blackmonk892/apexrn)** — React Native UI components and mobile development.
-- **[AI Paywall](https://github.com/Blackmonk892/AI-paywall)** — Experiments in payment-gated access for AI-powered services.
-- **[PDFX](https://github.com/Blackmonk892/img_pdf)** — PDF and file-tooling experiments.
+- **[NZeroC](https://github.com/Blackmonk892/nzeroc)** — Video-based safety monitoring with detection, tracking, and event workflows.
+- **[Tollgate](https://github.com/Blackmonk892/AI-paywall)** — HTTP 402 paywall infrastructure for AI agents, with USDC micropayments.
+- **[ApexRN](https://github.com/Blackmonk892/apexrn)** — A bold, TypeScript-first UI component library for React Native.
 
-## Toolkit
+## Stack
 
-**Languages:** C++ · Python · TypeScript · JavaScript · SQL  
-**Build with:** FastAPI · React · Next.js · React Native · LangChain · OpenCV  
-**Systems:** Linux · Git · FFmpeg · Docker · Electron
+C++ · Python · TypeScript · JavaScript · FastAPI · React · Next.js · React Native · OpenCV · LangChain
 
-I like working where applied AI meets reliable software: understanding the problem, building the system, and shipping something useful.
-
-[GitHub](https://github.com/Blackmonk892) · [Repositories](https://github.com/Blackmonk892?tab=repositories)
+Interested in **AI products, backend systems, or developer tooling**? [Reach out here on GitHub](https://github.com/Blackmonk892).
