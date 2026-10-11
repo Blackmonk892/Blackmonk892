@@ -1,79 +1,23 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Blackmonk892's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-<div align="center">
-
 # Anand Singh
 
-Engineering @ **Delhi Technological University (DTU)** · **LFX Mentee — Magma Core**
+I build AI products, computer-vision systems, and developer tools — from the model pipeline to the product people use.
 
-Building **AI systems, computer vision pipelines, developer tools, mobile infrastructure, and low-level software.**
+**Focus:** AI/ML · Computer Vision · Backend Systems · Developer Tools
 
-[![GitHub](https://img.shields.io/badge/GitHub-Blackmonk892-181717?style=for-the-badge\&logo=github)](https://github.com/Blackmonk892)
-[![DTU](https://img.shields.io/badge/DTU-Electrical%20Engineering-0B3D91?style=for-the-badge)](https://dtu.ac.in/)
+## Selected work
 
-</div>
+- **[NZeroC](https://github.com/Blackmonk892/nzeroc)** — Edge-vision pipeline connecting video ingestion, detection, tracking, and cloud workflows.
+- **[Scholar AI](https://github.com/Blackmonk892/Scholar-AI)** — AI-powered study and research tooling.
+- **[ApexRN](https://github.com/Blackmonk892/apexrn)** — React Native UI components and mobile development.
+- **[AI Paywall](https://github.com/Blackmonk892/AI-paywall)** — Experiments in payment-gated access for AI-powered services.
+- **[PDFX](https://github.com/Blackmonk892/img_pdf)** — PDF and file-tooling experiments.
 
----
+## Toolkit
 
-## ⚡ What I Build
+**Languages:** C++ · Python · TypeScript · JavaScript · SQL  
+**Build with:** FastAPI · React · Next.js · React Native · LangChain · OpenCV  
+**Systems:** Linux · Git · FFmpeg · Docker · Electron
 
-**AI / ML** · Computer Vision · RAG · Edge AI
-**Systems** · C++ · Python · APIs · CLI Tools
-**Frameworks** · React · React Native · TypeScript · Next.js
+I like working where applied AI meets reliable software: understanding the problem, building the system, and shipping something useful.
 
-
----
-
-## 🚀 Selected Projects
-
-### 🌐 NZeroC Vision / Agent
-
-Production-style **computer vision + edge/cloud system** built around RTSP, FFmpeg, YOLO-World, ByteTrack, VLMs, Tauri and React.
-
-`RTSP → FFmpeg → YOLO-World → ByteTrack → VLM → Cloud`
-
-→ [NZeroC](https://github.com/Blackmonk892/nzeroc)
-
-### 🧰 PDFX
-
-**C++20 PDF developer tool / CLI** focused on systems programming and practical file tooling.
-
-### 🧱 ApexRN
-
-Open-source **React Native UI library** built with TypeScript, Expo, Reanimated and Gesture Handler.
-
-→ [ApexRN](https://github.com/Blackmonk892/apexrn)
-
-### ⛏️ OatMine
-
-Mobile + web product development using **React Native, TypeScript and Next.js**.
-
-→ [Mobile](https://github.com/Blackmonk892/oat_mine_mobile) · [Website](https://github.com/Blackmonk892/oatmine_website)
-
-### 👁️ Vision Drone Controller
-
-Gesture-controlled drone interaction using **Python + OpenCV**.
-
-→ [Repository](https://github.com/Blackmonk892/drone-controller-via-gestures)
-
----
-
-## 🧩 Tech
-
-**Languages:** C++ · Python · C · TypeScript · JavaScript · SQL
-**AI/ML:** Scikit-learn · NumPy · Pandas · XGBoost · LangChain
-**Web/Mobile:** React · React Native · Next.js · FastAPI · Expo
-**Systems:** Linux · Docker · Git · FFmpeg · Tauri · Electron
-
----
-
-## 🧠 Currently
-
-Deepening **DSA, System Design, ML Engineering, Computer Vision, Low-Level Systems, and Edge/Cloud architectures.**
-
-> **Build things. Break things. Understand them. Ship them.**
-
+[GitHub](https://github.com/Blackmonk892) · [Repositories](https://github.com/Blackmonk892?tab=repositories)
