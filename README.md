@@ -7,8 +7,8 @@ Software builder working across **applied AI, systems, and developer tools**. I 
 ## Things I've built
 
 - **[NZeroC](https://github.com/Blackmonk892/nzeroc)** — Video-based safety monitoring with detection, tracking, and event workflows.
-- **[Tollgate](https://github.com/Blackmonk892/AI-paywall)** — HTTP 402 paywall infrastructure for AI agents, with USDC micropayments.
 - **[ApexRN](https://github.com/Blackmonk892/apexrn)** — A bold, TypeScript-first UI component library for React Native.
+- 
 
 ## Stack
 
