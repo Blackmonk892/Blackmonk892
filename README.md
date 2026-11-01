@@ -8,7 +8,6 @@ Software builder working across **applied AI, systems, and developer tools**. I 
 
 - **[NZeroC](https://github.com/Blackmonk892/nzeroc)** — Video-based safety monitoring with detection, tracking, and event workflows.
 - **[ApexRN](https://github.com/Blackmonk892/apexrn)** — A bold, TypeScript-first UI component library for React Native.
-- 
 
 ## Stack
 
