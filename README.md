@@ -13,4 +13,4 @@ Software builder working across **applied AI, systems, and developer tools**. I 
 
 C++ · Python · TypeScript · JavaScript · FastAPI · React · Next.js · React Native · OpenCV · LangChain
 
-Interested in **AI products, backend systems, or developer tooling**? [Reach out here on GitHub](https://github.com/Blackmonk892).
+
